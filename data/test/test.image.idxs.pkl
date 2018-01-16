@@ -1,0 +1,1 @@
+/Users/jklee/Research/yunjey_sat/show-attend-and-tell-tensorflow/data/test/test.image.idxs.pkl
