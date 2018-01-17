@@ -99,7 +99,13 @@ To generate captions, visualize attention weights and evaluate the model, please
 ##### (1) Generated caption: A table with a plate of food and cup of coffee .
 ![alt text](jpg/validation_example.png "val_example")
 
+##### (2) Genrated caption: A large long train on a steel truck .
+![alt text](jpg/validation_example2.png "val_example2")
+
 ### Test data
 
 ##### (1) Generated caption: A group of people sitting around a table with wine glasses .
 ![alt text](jpg/test_example.png "test_example")
+
+##### (2) Generated caption: A group of people standing around a large airplane .
+![alt text](jpg/test_example2.png "test_example2")
