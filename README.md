@@ -12,7 +12,7 @@ Author's theano code: https://github.com/kelvinxu/arctic-captions
 
 <b>The tensorflow implementation I refer to strongly : https://github.com/yunjey/show-attend-and-tell
 <br/>
-(I followed the code of this implementation and tried to understand comparing paper and implementation. <br/> Also, I changed Tensorflow r1.4 from Tensorflow r0.12.)
+(I followed the code of this implementation and tried to understand comparing paper and implementation. <br/> Also, I changed Tensorflow r0.12 from Tensorflow r1.4.)
 </b>
 
 <br/>
