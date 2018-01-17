@@ -14,7 +14,7 @@ Author's theano code: https://github.com/kelvinxu/arctic-captions
 
 <b>The tensorflow implementation I refer to strongly : https://github.com/yunjey/show-attend-and-tell
 <br/>
-(I followed the code of this implementation and changed Tensorflow r1.4 from Tensorflow r0.12.)
+(I followed the code of this implementation and tried to understand comparing paper and implementation. <br/> Also, I changed Tensorflow r1.4 from Tensorflow r0.12.)
 </b>
 
 <br/>
@@ -30,7 +30,7 @@ MacBook Pro (Retina, 15-inch, Mid 2015)
 <br/>
 ** In mac os, the limit of swap memory is approximately 50GB.
 <br/>
-** So, I reduce MS COCO train, val, and test set to one-third. 
+** So, I reduce MS COCO train, val, and test set to one-third. (1/3) 
 <br/>
 
 
