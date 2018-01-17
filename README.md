@@ -1,11 +1,9 @@
 # Show, Attend and Tell 
-<b> Update (December 2, 2016)</b> TensorFlow implementation of [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044) which introduces an attention based image caption generator. The model changes its attention to the relevant part of the image while it generates each word.
+TensorFlow implementation of <b>[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044) </b>  which introduces an attention based image caption generator. The model changes its attention to the relevant part of the image while it generates each word.
 
 <br/>
 
 ![alt text](jpg/attention_over_time.jpg "soft attention")
-
-<br/>
 
 
 ## References
