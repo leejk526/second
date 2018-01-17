@@ -13,6 +13,7 @@
 Author's theano code: https://github.com/kelvinxu/arctic-captions 
 
 <b>The tensorflow implementation I refer to strongly : https://github.com/yunjey/show-attend-and-tell
+<br/>
 (I followed the code of this implementation and changed Tensorflow r1.4 from Tensorflow r0.12.)
 </b>
 
@@ -21,11 +22,16 @@ Author's theano code: https://github.com/kelvinxu/arctic-captions
 ## My Experiment Environment
 
 MacBook Pro (Retina, 15-inch, Mid 2015)
+<br/>
 (I tried to train using only cpu.)
+<br/>
 
 ** In case of MS COCO dataset, the training set is too huge.
+<br/>
 ** In mac os, the limit of swap memory is approximately 50GB.
+<br/>
 ** So, I reduce MS COCO train, val, and test set to one-third. 
+<br/>
 
 
 ## Getting Started
@@ -91,8 +97,10 @@ To generate captions, visualize attention weights and evaluate the model, please
 
 ### Loss graph in Tensorboard
 ![alt text](jpg/batch_loss.png "batch_loss")
+<br>
+(The bottom line is a mistake.)
 
-6 epoches
+##### about 6 epoches
 
 ### Validation data
 
