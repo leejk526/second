@@ -96,6 +96,8 @@ To generate captions, visualize attention weights and evaluate the model, please
 <br/>
 <br/>
 
+## Result
+
 ### Loss graph in Tensorboard
 ![alt text](jpg/batch_loss.png "batch_loss")
 <br>
