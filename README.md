@@ -30,7 +30,7 @@ MacBook Pro (Retina, 15-inch, Mid 2015)
 <br/>
 ** In mac os, the limit of swap memory is approximately 50GB.
 <br/>
-** So, I reduce MS COCO train, val, and test set to one-third. (1/3) 
+** So, I reduced MS COCO train, val, and test set to one-third repectively. (1/3) 
 <br/>
 
 
