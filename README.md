@@ -102,4 +102,4 @@ To generate captions, visualize attention weights and evaluate the model, please
 ### Test data
 
 ##### (1) Generated caption: A group of people sitting around a table with wine glasses .
-![alt text](jpg/validation_example.png "val_example")
+![alt text](jpg/test_example.png "test_example")
